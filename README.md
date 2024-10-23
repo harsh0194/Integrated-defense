@@ -5,7 +5,9 @@ This project showcases my experience in cybersecurity through a job simulation w
 🌟 Key Highlights
 
 ✅ Conducted risk assessments and provided security recommendations.
+
 🛡️ Designed and implemented integrated defense strategies for a secure network infrastructure.
+
 🔒 Configured firewalls to manage access and protect sensitive systems.
 
 
